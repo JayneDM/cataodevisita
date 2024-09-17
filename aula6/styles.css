@@ -1,0 +1,33 @@
+header{  
+
+background-color: rgb(143, 45, 110);
+color: rgb(0, 0, 0);
+justify-content: center;
+align-items: center;
+text-align: center;
+border-radius: 10%;
+
+}
+
+nav{
+
+background: linear-gradient(red, pink);
+text-align: center;
+border-radius: 15%;
+
+}
+
+footer{
+
+background: linear-gradient(pink, red);
+text-align: center;
+border-radius: 15%;
+font-weight: bold;
+
+}
+
+img{
+
+border-radius: 200%;
+
+}
